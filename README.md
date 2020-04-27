@@ -1,5 +1,5 @@
 # Deep-Learning
-Project1: MNist Classification, CIFAR-10 Classification via convolutional Neural Network(CNN)
+Project1: MNist Classification, CIFAR-10 Classification via Convolutional Neural Network(CNN)
 
 Project2: Variational Autoencoder(VAE), Generative Adversarial Networks(GAN)
 
